@@ -1,6 +1,4 @@
-- name: Clean and Update Feeds
-  run: |
-    rm -rf feeds/*
-    ./scripts/feeds clean
-    ./scripts/feeds update -a
-    ./scripts/feeds install -a
+rm -rf feeds/*
+./scripts/feeds clean
+./scripts/feeds update -a
+./scripts/feeds install -a
