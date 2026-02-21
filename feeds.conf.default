@@ -4,7 +4,7 @@ src-git routing https://github.com/openwrt/routing
 src-git telephony https://github.com/openwrt/telephony
 
 # Passwall（21.02 兼容）
-src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;luci
+src-git passwall https://gitee.com/kenzok8/openwrt-passwall.git
 
 # rtp2httpd
 src-git rtp2httpd https://github.com/xxdd239/rtp2httpd-2026.git
